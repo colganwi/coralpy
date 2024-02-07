@@ -3,7 +3,7 @@
 [![Tests][badge-tests]][link-tests]
 [![Documentation][badge-docs]][link-docs]
 
-[badge-tests]: https://img.shields.io/github/actions/workflow/status/colganwi/coralpy/test.yaml?branch=main
+[badge-tests]: https://img.shields.io/github/actions/workflow/status/colganwi/coralpy/test.yaml?branch=master
 [link-tests]: https://github.com/colganwi/coralpy/actions/workflows/test.yml
 [badge-docs]: https://img.shields.io/readthedocs/coralpy
 
@@ -33,7 +33,7 @@ pip install coralpy
 1. Install the latest development version:
 
 ```bash
-pip install git+https://github.com/colganwi/coralpy.git@main
+pip install git+https://github.com/colganwi/coralpy.git@master
 ```
 
 ## Release notes
